@@ -9,7 +9,7 @@ Current version: **v1.0.0**
 
 ## Preview
 
-![Mobile placeholder](Card.png)
+![Mobile placeholder](./assets/screenshots/Card.png)
 
 ## Installation
 
