@@ -1,0 +1,10 @@
+{
+  "name": "word-stack-clock-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Home Assistant Lovelace custom card with stacked digits and words",
+  "license": "MIT",
+  "scripts": {
+    "check": "node --check word-stack-clock-card.js"
+  }
+}
