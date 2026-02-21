@@ -9,8 +9,7 @@ Current version: **v1.0.0**
 
 ## Preview
 
-
-![Mobile placeholder](./assets/Screenshot\ 2026\-02\-21\ alle\ 15\.29\.49\.png)
+![Mobile placeholder](./Screenshot 2026-02-21 alle 15.29.49.png)
 
 ## Installation
 
