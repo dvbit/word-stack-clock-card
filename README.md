@@ -9,9 +9,7 @@ Current version: **v1.0.0**
 
 ## Preview
 
-Replace placeholder images in `assets/screenshots/` before publishing.
 
-![Desktop placeholder](./assets/screenshots/desktop-placeholder.svg)
 ![Mobile placeholder](./assets/screenshots/mobile-placeholder.svg)
 
 ## Installation
