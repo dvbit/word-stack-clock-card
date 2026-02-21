@@ -9,7 +9,7 @@ Current version: **v1.0.0**
 
 ## Preview
 
-![Mobile placeholder](.Card.png)
+![Mobile placeholder](Card.png)
 
 ## Installation
 
